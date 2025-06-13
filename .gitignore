@@ -1,1 +1,11 @@
+# Carpeta generada por el script
+qrcodes/
+
+# Archivos PDF de prueba
+PDF_prueba.pdf
+
+# Todos los PNG (por si están mezclados en otras carpetas)
+*.png
+
+# node_modules
 node_modules/
